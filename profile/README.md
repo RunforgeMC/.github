@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-We are RunforgeMC, a team of developers, builders, artists, and server managers, making an experience inspired by the rougelite genre in MineCraft.
+We are RunforgeMC, a team of developers, builders, artists, and server managers, making an experience inspired by the rougelite genre in Minexraft.
 
 ## Website
 
