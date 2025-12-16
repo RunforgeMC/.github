@@ -6,7 +6,7 @@ We are RunforgeMC, a team of developers, builders, artists, and server managers,
 
 ## Website
 
-For more information on us, click [here](www.runforgemc.xyz).
+For more information on us, click [here](https://www.runforgemc.xyz).
 
 ## Discord
 
